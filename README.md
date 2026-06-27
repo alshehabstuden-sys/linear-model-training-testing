@@ -18,7 +18,7 @@ The model demonstrated high predictive accuracy:
 
 | Raw Data Analysis | Training Set Regression |
 | :--- | :--- |
-| ![Raw Data](Hours_vs_Scores_Scatter.png) | ![Training Set](Training_Set_Regression.png) |
+| ![Raw Data](Hours_vs_Scores_Scatter.png) | ![Training Set](Training_Ser_Regression.png) |
 
 | Test Set Performance | Error Analysis |
 | :--- | :--- |
